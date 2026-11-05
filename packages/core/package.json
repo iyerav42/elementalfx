@@ -20,13 +20,22 @@
     "README.md"
   ],
   "keywords": [
-    "animation",
     "requestanimationframe",
-    "reduced-motion",
     "wind",
-    "noise"
+    "noise",
+    "runtime",
+    "elementalfx",
+    "effects",
+    "animation",
+    "web-animation",
+    "webgl",
+    "web-components",
+    "custom-elements",
+    "framework-agnostic",
+    "reduced-motion",
+    "typescript"
   ],
-  "homepage": "https://github.com/avinashiyer4292/elementalfx/tree/main/packages/core#readme",
+  "homepage": "https://avinashiyer4292.github.io/elementalfx/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/avinashiyer4292/elementalfx.git",
