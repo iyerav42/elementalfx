@@ -35,14 +35,14 @@
     "reduced-motion",
     "typescript"
   ],
-  "homepage": "https://avinashiyer4292.github.io/elementalfx/",
+  "homepage": "https://iyerav42.github.io/elementalfx/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/avinashiyer4292/elementalfx.git",
+    "url": "git+https://github.com/iyerav42/elementalfx.git",
     "directory": "packages/gl"
   },
   "bugs": {
-    "url": "https://github.com/avinashiyer4292/elementalfx/issues"
+    "url": "https://github.com/iyerav42/elementalfx/issues"
   },
   "dependencies": {
     "@elementalfx/core": "workspace:^"
