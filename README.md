@@ -2,9 +2,9 @@
 
 Natural-element effects for the web: water, air, fire and earth. Each effect is a small, dependency-free package that works with plain HTML, any framework, or a `<script>` tag.
 
-See them all live on the demo site: https://avinashiyer4292.github.io/elementalfx/
+See them all live on the demo site: https://iyerav42.github.io/elementalfx/
 
-[![A tour of the demo site: snow settling on the wordmark, rain rippling a lake, a storm over a town, neon fluid, a page falling apart under gravity, and cards crumbling to dust, burning and melting](docs/demo.gif)](https://avinashiyer4292.github.io/elementalfx/)
+[![A tour of the demo site: snow settling on the wordmark, rain rippling a lake, a storm over a town, neon fluid, a page falling apart under gravity, and cards crumbling to dust, burning and melting](docs/demo.gif)](https://iyerav42.github.io/elementalfx/)
 
 | Package | What it does | Status |
 | --- | --- | --- |

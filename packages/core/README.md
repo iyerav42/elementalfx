@@ -1,6 +1,6 @@
 # @elementalfx/core
 
-Shared runtime for [elementalfx](https://github.com/avinashiyer4292/elementalfx) effects. You only need it directly when writing your own effect.
+Shared runtime for [elementalfx](https://github.com/iyerav42/elementalfx) effects. You only need it directly when writing your own effect.
 
 - `onFrame(callback)`: one `requestAnimationFrame` loop shared by every effect on the page.
 - `EffectRuntime`: runs frames only while an effect is playing, on screen, not settled, and motion is allowed (`prefers-reduced-motion`).

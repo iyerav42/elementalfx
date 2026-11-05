@@ -1,6 +1,6 @@
 # @elementalfx/gl
 
-A small WebGL2 toolkit used by [elementalfx](https://github.com/avinashiyer4292/elementalfx) effects.
+A small WebGL2 toolkit used by [elementalfx](https://github.com/iyerav42/elementalfx) effects.
 
 - `getWebGL2(canvas)`, `isWebGL2Supported()`, `watchContextLoss(canvas, onLost, onRestored)`
 - `createProgram(gl, vertex, fragment, defines)` with uniform lookup, `FULLSCREEN_VERTEX`, `createFullscreenDraw(gl)`
